@@ -1,3 +1,14 @@
+# Contract Addresses and Information
+
+Here are some important addresses and contract details:
+
+- **Factory Contract**: `0xf91F0e3417574e9778B57c62c60C3A520C19fAe3`
+- **WETH**: `0x1d181cBd1825e9eBC6AD966878D555A7215FF4F0`
+- **Router**: `0x36211d76f2A175159dd205D98e40A38D71d8522E`
+- **Hex**: `0x98f26ce9cce0e963cb9909ef6d6874753cab44c9c061f1fcf45e7b52c2ee59ba`
+- **Multicall**: `0x24E7f67b7789555EaE221317Be9BB4B6c67a0a54`
+
+
 # Uniswap SDK
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
