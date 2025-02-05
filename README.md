@@ -8,6 +8,12 @@ Here are some important addresses and contract details:
 - **Hex**: `0x98f26ce9cce0e963cb9909ef6d6874753cab44c9c061f1fcf45e7b52c2ee59ba`
 - **Multicall**: `0x24E7f67b7789555EaE221317Be9BB4B6c67a0a54`
 
+# Network Information
+
+- **Network**: Holesky Testnet
+- **Chain ID**: `17000`
+- **RPC URL**: `https://rpc.holesky.network`
+
 
 # Uniswap SDK
 
